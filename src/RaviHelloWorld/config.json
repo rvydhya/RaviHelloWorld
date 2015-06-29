@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "RaviHelloWorld"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-RaviHelloWorld-59089c52-b86a-4e94-8ab6-2952da21fa94;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
